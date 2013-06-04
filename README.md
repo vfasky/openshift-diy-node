@@ -1,8 +1,8 @@
 ### 使用方法
 
 
-1. 创建 DIY app
-2. git clone 你的仓库, 然后执行
+- 创建 DIY app
+- git clone 你的仓库, 然后执行
 
 ``` sh
 cd 'you app'
@@ -15,8 +15,8 @@ rm diy/index.html
 rm diy/testrubyserver.rb
 ```
 
-3. ssh 进你的 app
-4. 执行 
+- ssh 进你的 app
+- 执行 
 
 ``` sh
 cd $OPENSHIFT_TMP_DIR
